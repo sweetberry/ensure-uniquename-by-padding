@@ -4,7 +4,7 @@
 同じようなことを何度も書いたんで残しておく。
 
 ## Licence
-MIT
+NONE
 
 ## Author
 [sweetberry](https://github.com/sweetberry)
