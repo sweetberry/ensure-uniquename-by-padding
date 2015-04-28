@@ -1,0 +1,19 @@
+{
+  "name": "ensure-uniquename-by-padding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sweetberry/ensure-uniquename-by-padding.git"
+  },
+  "author": "sweetberry",
+  "license": "none",
+  "bugs": {
+    "url": "https://github.com/sweetberry/ensure-uniquename-by-padding/issues"
+  },
+  "homepage": "https://github.com/sweetberry/ensure-uniquename-by-padding"
+}
